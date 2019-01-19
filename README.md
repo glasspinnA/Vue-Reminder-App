@@ -1,29 +1,8 @@
-# Vue-Reminder-App
+# Reminder component in Vue.js  
+This is a component made with Vue.js, the component was produced for the purpose to be implemented in the What's in the freezer project 
 
-## Project setup
-```
-npm install
-```
+## Demo
+Demo can be found here: https://glasspinna.github.io/Vue-Reminder-App/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## What's in the freezer 
+The main project can be found here: https://github.com/glasspinnA/Vue-What-in-the-freezer
